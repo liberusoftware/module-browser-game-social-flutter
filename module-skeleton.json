@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-social-flutter",
+  "capabilityKey": "liberusoftware/module-browser-game-social",
+  "presentation": "mobile-flutter",
+  "package": "module_browser_game_social_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/browser-game/nextjs/social.md",
+  "presentationPlan": "projects/browser-game/flutter/social.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
